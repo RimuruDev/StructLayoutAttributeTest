@@ -13,7 +13,7 @@ namespace RimuruDev;
 
 using static Console;
 
-public sealed class EnryPoint
+public sealed class EntryPoint
 {
     public static void Main()
     {
